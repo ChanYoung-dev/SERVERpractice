@@ -20,5 +20,7 @@
 >더 많은 내용은 자료참고
 
 
-[![SMART PARKING](http://img.youtube.com/vi/TZev1Zqh9Lk/1.jpg)](https://youtu.be/TZev1Zqh9Lk?t=0s)  <- 사진 클릭시 실제 동작 재생
+### 실행 유튜브 영상
+- 하단 이미지 클릭시 재생   
+[![통신공학시스템](./통신공학.png)](https://youtu.be/TZev1Zqh9Lk?t=0s) 
 
